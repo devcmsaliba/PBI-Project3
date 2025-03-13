@@ -1,4 +1,4 @@
-# 📊 **Análise de Desempenho das Marcas de Refrigerante e Pesquisa de Mercado - Power BI** 🍹
+# 📊 **Análise de Desempenho das Marcas de Refrigerante - Power BI** 🍹
 
 🔗 **Acesse o painel online:**  
 👉 [Clique aqui para visualizar](https://devcmsaliba.github.io/PBI-Project3/)
